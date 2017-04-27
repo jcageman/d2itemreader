@@ -1,0 +1,5 @@
+
+****************************** FastFind 2 (c)FastFrench 2015 ********
+		Started              ????????????
+
+             1.065mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3

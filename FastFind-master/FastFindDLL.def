@@ -1,0 +1,56 @@
+LIBRARY	"FastFind"
+
+EXPORTS
+	SetDebugMode
+	DebugTrace
+	DebugError
+
+	SetHWnd
+	GetLastErrorMsg
+
+	AddExcludedArea
+	ResetExcludedAreas
+	IsExcluded
+
+ 	FFTest
+	FFVersion
+
+	SnapShot
+	
+	ProgressiveSearch
+	GenericColorSearch
+	ColorCount
+	ColorPixelSearch
+	ColorPixelSearchRectangle
+	
+	LocalizeChanges
+	HasChanged
+
+	FFGetPixel
+
+	AddColor
+	RemoveColor
+	ResetColors
+	ColorsSearch
+	ColorsPixelSearch
+
+	SaveBMP
+	SaveJPG
+	GetLastFileSuffix
+	LoadFromFile
+	GetLastFileName
+
+	KeepChanges
+	KeepColor
+
+	
+	DrawSnapShot
+	DrawSnapShotXY
+	FFSetPixel
+
+	DuplicateSnapShot
+	GetRawData
+
+	ApplyFilterOnSnapShot
+	ComputeMeanValues
+	

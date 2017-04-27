@@ -1,0 +1,12 @@
+﻿  PixelProcessing.cpp
+LINK : warning LNK4010: invalid subsystem version number 5.0; default subsystem version assumed
+     Creating library D:\diablo 2 scripts\FastFind-master\DofusRelease\FastFindDLL.lib and object D:\diablo 2 scripts\FastFind-master\DofusRelease\FastFindDLL.exp
+FastFindDLL.exp : warning LNK4070: /OUT:FastFind.dll directive in .EXP differs from output filename 'D:\diablo 2 scripts\FastFind-master\DofusRelease\FastFindDLL.dll'; ignoring directive
+  Generating code
+  1 of 265 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+FastFindDLL.exp : warning LNK4070: /OUT:FastFind.dll directive in .EXP differs from output filename 'D:\diablo 2 scripts\FastFind-master\DofusRelease\FastFindDLL.dll'; ignoring directive
+  FastFindDLL.vcxproj -> D:\diablo 2 scripts\FastFind-master\DofusRelease\FastFindDLL.dll
+          1 file(s) copied.
