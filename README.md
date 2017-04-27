@@ -6,7 +6,7 @@ Introduction
 ------------
 
 This library uses optical character recognition to find the item stats of diablo items. It uses the language autoit (www.autoitscript.com) to achieve this. For obtaining the character information the script used a very fast pixelsearch library to obtain the information.
-This script could even be safely used on battle.net, although i didn't use it there.
+This script could even be safely used on battle.net, although i didn't use it there. It also includes an example script, which automates the process of rerolling items for a private diablo 2 server.
 
 Credits
 ------------
